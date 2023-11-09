@@ -1,10 +1,1 @@
-[ {
-  "name" : "GitHub Actions",
-  "type" : "github",
-  "url" : "https://allure-examples.github.io/allure-junit4-maven",
-  "buildOrder" : 3,
-  "buildName" : "GitHub Actions Run #259421411",
-  "buildUrl" : "https://github.com/allure-examples/allure-junit4-maven/actions/runs/259421411",
-  "reportName" : "Allure Report with history",
-  "reportUrl" : "https://allure-examples.github.io/allure-junit4-maven/3/"
-} ]
+[{"name":"GitHub Actions","type":"github","url":"https://allure-examples.github.io/junit4-kotlin-maven","buildOrder":3,"buildName":"GitHub Actions Run #6816427734","buildUrl":"https://github.com/allure-examples/junit4-kotlin-maven/actions/runs/6816427734","reportName":"Allure Report with history","reportUrl":"https://allure-examples.github.io/junit4-kotlin-maven/3/"}]
